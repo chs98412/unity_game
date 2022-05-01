@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "248741993852",
+    "project_id": "unity-pangpang-b7e07",
+    "firebase_url":"https://unity-pangpang-b7e07-default-rtdb.firebaseio.com/",
+    "storage_bucket": "unity-pangpang-b7e07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248741993852:android:37084e7e7af4b991bed8f9",
+        "android_client_info": {
+          "package_name": "com.petit.pangpang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248741993852-898gb6u2pr19nmuibojn2bhsmba0m1h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxN2LQjsinS9lCHWdSopbuKUD6dohtd28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248741993852-898gb6u2pr19nmuibojn2bhsmba0m1h4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "248741993852-i1n4rbmhpr74c0ovuefo9d2dfsur769g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.petit.pangpang"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

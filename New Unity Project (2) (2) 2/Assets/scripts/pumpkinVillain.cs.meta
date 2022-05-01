@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8b3cb4c5c9b954ae59892d3fbc01b1ff
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - villainbullet: {fileID: 1026242384990719118, guid: 270bb3fcf0c45492b936f130497f7a70, type: 3}
+  - villainHP: {fileID: 8479364048273063787, guid: f67f5490b42b0431eb950901336bafac, type: 3}
+  - coin: {fileID: 1610305424787388137, guid: 79eabec143d0b4c17b396e9811fb5fbe, type: 3}
+  - life: {fileID: 8459958219002147926, guid: 3aa553b3e68fc46638dc1a4f617762d3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

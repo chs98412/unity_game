@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>248741993852-i1n4rbmhpr74c0ovuefo9d2dfsur769g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.248741993852-i1n4rbmhpr74c0ovuefo9d2dfsur769g</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAK6BY3_oc3r3OzXWnQL0OD3IWixUXRddk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>248741993852</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.petit.pangpang</string>
+	<key>PROJECT_ID</key>
+	<string>unity-pangpang-b7e07</string>
+	<key>STORAGE_BUCKET</key>
+	<string>unity-pangpang-b7e07.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:248741993852:ios:d323dca2a9d5160bbed8f9</string>
+	<key>DATABASE_URL</key>
+	<string>https://unity-pangpang-b7e07-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
